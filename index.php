@@ -72,7 +72,7 @@
                 <li class="box-label">About me</li>
 
                 <li><a href="index.html">Intro</a> <i class="ion-ios-circle-filled color"></i></li>
-                <li><a href="about.html">About meEE</a></li>
+                <li><a href="about.html">About meEEe</a></li>
                 <li><a href="services.html">services</a></li>
                 <li><a href="portfolio.html">portfolio</a></li>
                 <li><a href="contact.html">contact me</a></li>
