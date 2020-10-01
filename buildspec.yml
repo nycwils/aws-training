@@ -14,5 +14,5 @@ phases:
     commands:
       - echo Build completed on `date`
 artifacts:
-  files:
-    - target/messageUtil-1.0.jar
+    commands:
+      - upload artifcats to s3 goes here.
