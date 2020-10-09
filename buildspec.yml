@@ -14,6 +14,5 @@ phases:
     commands:
       - echo Build completed on `date`
 artifacts:
-files:
-- '**/*'
-name: s3-to-s3-latest-build.zip
+    commands:
+      - upload artifcats to s3 goes here.
